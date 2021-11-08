@@ -1,4 +1,4 @@
-import React, {ReactElement, useState} from 'react'
+import React, {ReactElement} from 'react'
 import {connect} from 'react-redux';
 import {pokemonType} from './redux/actions/pokemonActionTypes'
 import {getPokemons} from './redux/actions/pokemonActions';
